@@ -1,9 +1,4 @@
----
-library_name: transformers
-tags: []
----
-
-# Model Card for Model ID
+# MENTAL HEALTH THERAPY CHATBOT
 
 This model is a fine-tuned version of the Llama 2 model ("NousResearch/Llama-2-7b-chat-hf") using a personalized dataset for a virtual therapy chatbot. The model is designed to assist users in providing mental health support through conversations that mimic real-world therapy interactions.
 
