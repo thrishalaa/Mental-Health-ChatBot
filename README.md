@@ -43,10 +43,3 @@ Users of the model should ensure that it is clear to end-users that the chatbot 
 
 Users (both direct and downstream) should be made aware of the risks, biases and limitations of the model. More information needed for further recommendations.
 
-
-
-[More Information Needed]
-
-## Model Card Contact
-
-[More Information Needed]
